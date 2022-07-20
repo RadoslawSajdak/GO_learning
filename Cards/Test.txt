@@ -1,0 +1,16 @@
+one of clubs
+Two of clubs
+Three of clubs
+Four of clubs
+one of diamonds
+Two of diamonds
+Three of diamonds
+Four of diamonds
+one of hearts
+Two of hearts
+Three of hearts
+Four of hearts
+one of spades
+Two of spades
+Three of spades
+Four of spades
